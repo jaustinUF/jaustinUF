@@ -1,4 +1,4 @@
-### Hi there 👋
+🔭 I’m currently working  with a mentor to become a Data Engineer.
 
 <!--
 **jaustinUF/jaustinUF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
