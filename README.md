@@ -1,4 +1,4 @@
-🔭 I’m currently working  with a mentor to become a Data Engineer.
+### I am shifting my data engineering practice toard IoT, sensors, and edge devices.
 
 <!--
 **jaustinUF/jaustinUF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
