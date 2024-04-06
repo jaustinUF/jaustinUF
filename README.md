@@ -1,4 +1,4 @@
-### I am shifting my data engineering practice toward IoT, sensors, and edge devices.
+### I am shifting my data engineering practice toward IoT, sensors, and edge hardware/software (brokers, etc.).
 
 <!--
 **jaustinUF/jaustinUF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
