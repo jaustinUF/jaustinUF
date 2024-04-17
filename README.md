@@ -3,4 +3,4 @@
 - brokers and cloud bridges
 - IoT management (ThingWorx, Belana, N3ron, etc.)
 
-LinkedIn account: (https://www.linkedin.com/in/jim-austin-a476b562/)
+LinkedIn account: https://www.linkedin.com/in/jim-austin-a476b562/
