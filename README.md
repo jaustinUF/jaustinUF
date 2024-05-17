@@ -2,7 +2,7 @@
 
 ## Machine learning
 - began first week in April 2024
-- work so far is in ML_1 repository
+- current work: ML_1 repository
 
 ## IoT data engineering
 - edge devices: sensors, communication, control
