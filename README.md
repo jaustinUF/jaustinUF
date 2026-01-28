@@ -1,5 +1,5 @@
 # 👋 Welcome to my GitHub
-
+## RL • Locomotion • Robotics Simulation
 I’m an engineer working at the intersection of **reinforcement learning, robotics-oriented simulation, and agentic AI systems** — with a long-term focus on embodied intelligence and real-world control.
 
 This GitHub reflects a structured transition:
