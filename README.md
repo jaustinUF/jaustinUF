@@ -55,7 +55,7 @@ reorientation toward the control-and-instrumentation track above.
 - **Stage 5 — the control track** (current), detailed below.
 
 Full detail: [learning stack overview](LEARNING_STACK.md) ·
-[Stage 5 control track](RSC_LEARNING_STACK.md)
+[Stage 5 control track](RSC_Learning_Stack.md)
 
 ---
 
