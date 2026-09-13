@@ -21,6 +21,19 @@ physical plant with the plant replaced by physics simulation.
 
 Most recent work:
 
+**[perception_in_the_loop](https://github.com/jaustinUF/perception_in_the_loop)** —
+a closed vision→control loop in Isaac Sim. A Franka arm publishes camera frames
+and its measured gripper pose over ROS 2; a separate external process runs an
+OWL-ViT open-vocabulary detector on those frames and, when it confidently locates
+the target, drives the arm over ROS 2 to close the gripper-to-cube distance. A
+margin-based confidence gate makes the controller **refuse to act** on ambiguous
+detections — demonstrated by a paired success/refusal run of the identical system.
+The detector was characterized first (prompt sensitivity, a non-monotonic
+confidence-vs-target-size effect, per-detection latency), so the trust threshold
+rests on measured data. Reuses the two-process ROS 2 seam from
+[isaac-ros2-external-control](https://github.com/jaustinUF/isaac-ros2-external-control),
+carrying a richer payload across the same architecture.
+
 **[isaac-ros2-external-control](https://github.com/jaustinUF/isaac-ros2-external-control)** —
 external control of a simulated Franka arm over ROS 2. An external controller
 process, in its own environment (native ROS 2 Jazzy, system Python), closes a
