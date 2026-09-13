@@ -108,8 +108,11 @@ A staged path, each stage producing a portfolio artifact and reusing the last:
 - **5D — classical vs. learned control benchmark.** Hand-designed controller vs.
   a learned policy on identical metrics — where the earlier RL work earns its
   keep as a baseline.
-- **5E — perception in the loop.** Bring the camera into the control loop
-  (visual servoing).
+- **5E — perception in the loop** ✅ *complete* —
+  [perception_in_the_loop](https://github.com/jaustinUF/perception_in_the_loop).
+  An external OWL-ViT detector, over ROS 2, drives the arm toward a target it
+  perceives — with a confidence gate that refuses to act on untrustworthy
+  detections. Detector characterized before the loop was closed.
 - **5F — ER 2 grounding check** *(optional).* Verify a vision-language model can
   reason about the sim camera feed before building on it.
 - **6 — ER-2-driven orchestration** *(in sim).* A vision-language reasoning layer
